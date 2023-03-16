@@ -1,0 +1,29 @@
+
+
+The Basic Language of the Web: HTML
+
+.
+.
+
+
+
+
+
+
+
+In HTML, each element is made up of 3 parts:
+
+The opening tag
+The closing tag
+The actual element
+You can learn more at the MDN Web Docs.
+
+
+
+
+
+To be able to use the fundamental web dev language
+To hand-craft beautiful websites instead of relying on tools like Worpress or Wix
+To build web applications
+To impress friends
+To have fun 😃
